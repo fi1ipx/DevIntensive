@@ -2,4 +2,39 @@
     <!-- Default screen margins, per the Android Design guidelines. -->
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!--Sizes-->
+    <dimen name="size_smallest_8">8dp</dimen>
+    <dimen name="size_smaller_16">16dp</dimen>
+    <dimen name="size_small_24">24dp</dimen>
+    <dimen name="size_medial_48">48dp</dimen>
+    <dimen name="size_medium_56">56dp</dimen>
+    <dimen name="size_large_72">72dp</dimen>
+
+    <!--Spaces-->
+    <dimen name="spacing_small_8">8dp</dimen>
+    <dimen name="spacing_normal_16">16dp</dimen>
+    <dimen name="spacing_medial_24">24dp</dimen>
+    <dimen name="spacing_medium_32">32dp</dimen>
+    <dimen name="spacing_middle_48">48dp</dimen>
+    <dimen name="spacing_medial_tablet_52">52dp</dimen>
+    <dimen name="spacing_large_56">56dp</dimen>
+    <dimen name="spacing_middle_tablet_64">64dp</dimen>
+    <dimen name="spacing_larger_72">72dp</dimen>
+    <dimen name="spacing_medium_tablet_80">80dp</dimen>
+    <dimen name="spacing_large_tablet_96">96dp</dimen>
+    <dimen name="spacing_largest_tablet_104">104dp</dimen>
+
+    <!--Font Sizes-->
+    <dimen name="app_bar_title_20">20sp</dimen>
+    <dimen name="font_size_button_english_14">14sp</dimen>
+    <dimen name="font_size_button_tall_15">15sp</dimen>
+    <dimen name="font_size_subheading_english_16">16sp</dimen>
+    <dimen name="font_size_subheading_tall_17">17sp</dimen>
+    <dimen name="font_size_body_english_14">14sp</dimen>
+    <dimen name="font_size_body_tall_15">15sp</dimen>
+
+    <!--Ratio-->
+    <dimen name="text_ratio_minimum_4.5x1">4.5/1</dimen>
+    <dimen name="text_ratio_preferred_7x1">7/1</dimen>
 </resources>
